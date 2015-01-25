@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Textures/Skies0204_4_S.jpg</file>
+        <file>Textures/Skies0220_1_S.jpg</file>
+        <file>Textures/Skies0220_2_S.jpg</file>
+        <file>Textures/Skies0279_2_S.jpg</file>
+        <file>Textures/Skies0329_1_S.jpg</file>
+        <file>Textures/Skies0329_4_S.jpg</file>
+    </qresource>
+</RCC>
