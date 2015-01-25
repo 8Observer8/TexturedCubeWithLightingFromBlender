@@ -1,7 +1,7 @@
 /*
     The Cube Example
 
-    Copyright (C) 2014  Enzhaev Ivan
+    Copyright (C) 2015  Enzhaev Ivan
 
     Email: 8observer8@gmail.com
 
